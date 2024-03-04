@@ -1,0 +1,15 @@
+numpy
+scipy
+scikit-learn
+matplotlib
+pandas
+nltk
+fastapi
+torch
+tensorflow
+uvicorn
+networkx
+python-multipart
+transformers
+pytesseract
+gunicorn==19.9.0
